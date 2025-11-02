@@ -17,7 +17,7 @@ The project features a **user-friendly GUI** created with **Tkinter**.
 
 📥 **Clone the repository:**  
 ```bash
-git clone https://github.com/your-username/spam_guard.git
+git clone [https://github.com/your-username/spam_guard.git](https://github.com/Amrutha-K-2004/spam_guard.git)
 ````
 
 📂 **Navigate to the project directory:**
